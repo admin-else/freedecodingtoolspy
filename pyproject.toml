@@ -19,4 +19,4 @@ classifiers = [
 ]
 
 [project.scripts]
-freedecodingtoolspy = "__main__:main"
+freedecodingtoolspy = "freedecodingtoolspy.__main__:main"
