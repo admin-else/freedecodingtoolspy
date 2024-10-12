@@ -14,4 +14,3 @@ Arguments:
 ``-r`` replace file with deobuscated code.
 ``-R [[FOLDER]]`` Recurifly loop throught the folder, if not provided current folder, to find .py files check if they are obuscated and then the other args apply.
 ``-h --help`` Print a help text.
-``-v`` Print info about the software. 
